@@ -1,0 +1,2 @@
+# MazeCpp
+Maze solving algorithm
